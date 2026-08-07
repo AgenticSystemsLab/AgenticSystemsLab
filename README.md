@@ -1,4 +1,8 @@
 # Hi, I'm AgenticSystemsLab 👋
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 I'm currently learning and building practical **AI Agent systems**.
 
@@ -8,8 +12,10 @@ My focus is on multi-agent architectures, tool-using agents, and turning ideas i
 
 ### 🚀 Featured Project
 
-**[Research Agent Team](https://github.com/AgenticSystemsLab/research-agent-team)**  
-A multi-agent AI system built with CrewAI.  
+**[Research Agent Team](https://github.com/AgenticSystemsLab/research-agent-team)** | 🚀 **[Try the Live App](https://research-agent-team-git-981831266697.us-central1.run.app)**
+
+A multi-agent AI system built with CrewAI and deployed on Google Cloud Run...
+
 It uses three specialized agents (Researcher → Analyst → Writer) that work together to research any topic and generate a clear, structured report.
 
 This was my first end-to-end AI agent project.
@@ -22,6 +28,7 @@ This was my first end-to-end AI agent project.
 - **Languages**: Python
 - **Frameworks / Libraries**: Streamlit, OpenAI API, LangChain ecosystem
 - **Other**: Git, GitHub, prompt engineering, project documentation
+- **Cloud & Deployment:** Google Cloud Run, Docker, GCP
 
 ---
 
