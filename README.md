@@ -4,9 +4,9 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-I'm currently learning and building practical **AI Agent systems**.
+**I design and build practical AI agent systems for real-world problems.**
 
-My focus is on multi-agent architectures, tool-using agents, and turning ideas into working projects that solve real problems.
+My focus is on multi-agent architectures, tool-using agents, agent orchestration, and intelligent workflows. I’m particularly interested in turning complex business processes into reliable AI-powered applications.
 
 ---
 
