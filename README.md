@@ -24,7 +24,7 @@ This was my first end-to-end AI agent project.
 
 ### 🛠️ Tech Stack & Tooling
 
-* **AI Orchestration & LLMs:** CrewAI (Multi-agent orchestration), OpenAI (`gpt-4o-mini`)
+* **AI Orchestration & LLMs:** CrewAI (Multi-agent orchestration), OpenAI (gpt-4o-mini)
 * **Research & Web Tools:** DuckDuckGo Search (native tool integration), Tavily API (advanced search)
 * **Frontend & UI:** Streamlit (interactive web interface)
 * **Core Language & Runtime:** Python 3.10+
