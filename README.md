@@ -22,21 +22,19 @@ This was my first end-to-end AI agent project.
 
 ---
 
-### 🛠️ Skills & Tools I'm Working With
+### 🛠️ Tech Stack & Tooling
 
-- **AI Agents**: CrewAI, multi-agent orchestration, tool calling
-- **Languages**: Python
-- **Frameworks / Libraries**: Streamlit, OpenAI API, LangChain ecosystem
-- **Other**: Git, GitHub, prompt engineering, project documentation
-- **Cloud & Deployment:** Google Cloud Run, Docker, GCP
-
+* **AI Orchestration & LLMs:** CrewAI (Multi-agent orchestration), OpenAI (`gpt-4o-mini`)
+* **Research & Web Tools:** DuckDuckGo Search (native tool integration), Tavily API (advanced search)
+* **Frontend & UI:** Streamlit (interactive web interface)
+* **Core Language & Runtime:** Python 3.10+
 ---
 
 ### 📈 What I'm Focused On
 
-- Building more agent systems (research, automation, and decision-support agents)
-- Improving evaluation and reliability of multi-agent workflows
-- Learning production best practices for AI applications
+* Building modular multi-agent networks (research, automation, and decision-support agents)
+* Improving evaluation, guardrails, and reliability of multi-agent workflows
+* Implementing production best practices for AI applications
 
 ---
 
