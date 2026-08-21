@@ -1,44 +1,52 @@
-# Hi, I'm AgenticSystemsLab 👋
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<div align="center">
 
-**I design and build practical AI agent systems for real-world problems.**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Agentic%20Systems%20Lab&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
-My focus is on multi-agent architectures, tool-using agents, agent orchestration, and intelligent workflows. I’m particularly interested in turning complex business processes into reliable AI-powered applications.
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/Framework-CrewAI-red?style=for-the-badge)
+![GCP](https://img.shields.io/badge/Cloud-Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud)
 
----
+</div>
 
-### 🚀 Featured Project
+### 🚀 Technical PM & AI Engineer
 
-**[Research Agent Team](https://github.com/AgenticSystemsLab/research-agent-team)** | 🚀 **[Try the Live App](https://research-agent-team-git-981831266697.us-central1.run.app)**
-
-A multi-agent AI system built with CrewAI and deployed on Google Cloud Run...
-
-It uses three specialized agents (Researcher → Analyst → Writer) that work together to research any topic and generate a clear, structured report.
-
-This was my first end-to-end AI agent project.
+Specializing in multi-agent system architectures, stateful workflow orchestration, tool integration, and enterprise automation. Focused on building reliable, deterministic AI systems that solve complex business processes.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+## ⚡ Featured Projects
 
-* **AI Orchestration & LLMs:** CrewAI (Multi-agent orchestration), OpenAI (gpt-4o-mini)
-* **Research & Web Tools:** DuckDuckGo Search (native tool integration), Tavily API (advanced search)
-* **Frontend & UI:** Streamlit (interactive web interface)
-* **Core Language & Runtime:** Python 3.10+
----
+### 1. [Enterprise Multi-Agent Fleet](https://github.com/AgenticSystemsLab/enterprise-multi-agent-fleet)
+> **Stack:** LangGraph | Google Gemini 1.5 Pro | Tavily Search | Streamlit  
+> **Key Focus:** Stateful orchestration, cyclic routing, non-linear reasoning loops, and supervisor-managed agent handoffs.
 
-### 📈 What I'm Focused On
-
-* Building modular multi-agent networks (research, automation, and decision-support agents)
-* Improving evaluation, guardrails, and reliability of multi-agent workflows
-* Implementing production best practices for AI applications
+* Designed a stateful multi-agent system using **LangGraph** to route complex research and execution tasks dynamically.
+* Integrated **Gemini 1.5 Pro** and **Tavily Search** for grounded factual synthesis and automated execution.
+* Interactive **Streamlit** control panel for live state inspection and agent interaction.
 
 ---
 
-### 🔗 Connect
+### 2. [Autonomous Research Agent Team](https://github.com/AgenticSystemsLab/research-agent-team)
+> **Stack:** CrewAI | OpenAI gpt-4o-mini | Google Cloud Run | Streamlit  
+> **Key Focus:** Sequential agent pipelines, role-based delegation, and production cloud deployment.
 
-Feel free to explore my repositories.  
-I'm always open to feedback and collaboration.
+* Built a 3-agent pipeline (Researcher → Analyst → Writer) for automated end-to-end report synthesis.
+* Containerized and deployed on **Google Cloud Run** for serverless production scalability.
+
+---
+
+## 🛠 Tech Stack & Core Competencies
+
+| Category | Frameworks & Tools |
+| :--- | :--- |
+| **Agent Orchestration** | LangGraph, LangChain, CrewAI |
+| **LLM Engines** | Google Gemini 1.5 Pro, OpenAI (GPT-4o/4o-mini) |
+| **Tools & APIs** | Tavily Search, DuckDuckGo Search, Custom Python Tooling |
+| **UI & Cloud Deployment** | Streamlit, Google Cloud Run, Docker |
+| **Languages & Core** | Python 3.10+, REST APIs, Git/GitHub |
+
+---
+
+## 📌 Pinned Repositories
+Be sure to check out the codebase for **`enterprise-multi-agent-fleet`** and **`research-agent-team`** below!
