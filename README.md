@@ -1,6 +1,9 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0f172a&height=220&section=header&text=Agentic%20Systems%20Lab&fontSize=38&fontColor=38bdf8&animation=twinkle&desc=Multi-Agent%20Orchestration%20%7C%20LangGraph%20%7C%20CrewAI&descAlignY=62&descSize=16&descColor=94a3b8" width="100%" />
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Agentic%20Systems%20Lab&fontSize=36&fontColor=ffffff&animation=fadeIn)
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange?style=for-the-badge)
